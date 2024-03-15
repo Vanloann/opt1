@@ -13,9 +13,10 @@ import lombok.Setter;
 @IdClass(MachineUsingKey.class)
 public class MachineUsing {
     @Id
+    private String customerId;
+    @Id
     private String machineId;
 
-    @Id
     @ManyToOne(cascade = CascadeType.ALL)
     @JoinColumn(name = "customer_id", referencedColumnName = "customerId")
     private Customer customer;

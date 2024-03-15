@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 //@Embeddable
 public class MachineUsingKey implements Serializable {
-    private Customer customerId;
+    private String customerId;
     private String machineId;
 }
 
