@@ -1,0 +1,11 @@
+
+ƒ
+java:S1450'"aRemove the "applicationContext" field and declare it as a local variable in the relevant methods.(î‡²şÿÿÿÿ8Ë‘¾‡ã1
+U
+java:S1874&"?Remove this use of "WebMvcConfigurerAdapter"; it is deprecated.(è’èà
+N
+java:S3878T"8Remove this array creation and simply pass the elements.(¬í£Ÿ
+V
+java:S1161w":Add the "@Override" annotation above this method signature(£¸˜88£–æÙã1
+X
+java:S1068'"6Remove this unused "applicationContext" private field.(î‡²şÿÿÿÿ8õ‘¾‡ã1

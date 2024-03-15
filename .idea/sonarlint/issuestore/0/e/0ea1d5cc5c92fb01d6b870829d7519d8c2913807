@@ -1,0 +1,12 @@
+
+I
+java:S1948	",Make "customerId" transient or serializable.(Àƒöö8—†›ãã1
+Q
+java:S1128"5Remove this unused import 'javax.persistence.Column'.(ìûæH8¿¤¾âã1
+[
+java:S1128"9Remove this unused import 'javax.persistence.Embeddable'.(‡¡İ¬ûÿÿÿÿ8Â¤¾âã1
+K
+java:S1068	".Remove this unused "customerId" private field.(Àƒöö8Â¤¾âã1
+I
+java:S1068
+"-Remove this unused "machineId" private field.(ÎÍª:8Ã¤¾âã1
